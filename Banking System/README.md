@@ -3,7 +3,7 @@
 ## We have 3 types of accounts :
     1) Savings_account.
     2) checking_account.
-	  3) trust_account.
+    3) trust_account.
     
 ### 1) Svaings_account :
         In savings account we have all the data and methods of normal account and adding to it interest rate.
