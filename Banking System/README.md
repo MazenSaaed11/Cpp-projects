@@ -1,5 +1,5 @@
 # Banking system modelling.
-## This project is a good examble of how you can use OOP concepts like ( Polymorphism - inheritance - operator overloading .....ect.)
+##### This project is a good examble of how you can use OOP concepts like ( Polymorphism - inheritance - operator overloading .....ect.)
 ## We have 3 types of accounts :
     1) Savings_account.
     2) checking_account.
