@@ -2,3 +2,6 @@ The Go Back-N ARQ or Go Back Automatic Repeat Request is a way to implement slid
 The window sizes for Go Back-N are:
 
 ![https://github.com/MazenSaaed11/Cpp-projects/blob/main/Go%20Back%20N%20protocol/Screenshot%202023-12-04%20184226.png](https://github.com/MazenSaaed11/Cpp-projects/blob/main/Go%20Back%20N%20protocol/Screenshot%202023-12-04%20184226.png)
+
+
+in the code you can contol the window size, number of frames to send and the probability of error in tranmitting one of the frames
